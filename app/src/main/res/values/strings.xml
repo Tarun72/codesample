@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CodeChallenge</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="laucher_txt">Launch fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="email_field">Email</string>
+    <string name="username_field">Username</string>
+    <string name="field_password">Password</string>
+    <string name="field_login">Login</string>
+</resources>

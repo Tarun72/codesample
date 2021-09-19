@@ -1,0 +1,6 @@
+<resources>
+
+
+    <dimen name="splash_txt">35sp</dimen>
+    <dimen name="username">16sp</dimen>
+</resources>
